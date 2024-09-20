@@ -26,7 +26,7 @@ To maximise public benefit, our team will feed into national and international m
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [CCU036_01: COVID-19 vaccination and birth outcomes of 186,990 women vaccinated before pregnancy: an England-wide cohort study](https://github.com/BHFDSC/CCU036)
+* [CCU036_01: COVID-19 vaccination and birth outcomes of 186,990 women vaccinated before pregnancy: an England-wide cohort study](https://github.com/BHFDSC/CCU036_01)
 
 ## Project approval
 
