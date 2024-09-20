@@ -10,15 +10,12 @@ We will study whether:
    * when they are infected,
    * how ill they are,
    * how long for and if they develop long Covid;
-
 2. COVID-19 vaccination is safe for women’s fertility and future pregnancies;
-
 3. some women are more at risk.
 
 We will access anonymised NHS records of all English residents from testing, vaccination, GP, hospital and maternity services, through a secure and safe platform. To understand any risks and who is most at risk we will compare women’s fertility and future pregnancy outcomes according to whether:
 
 1. they had COVID-19,
-
 2. they were vaccinated against COVID-19.
 
 By highlighting the risks of COVID-19 on reproductive health and how this compares to the risks of the COVID-19 vaccination the project has clear benefits to mothers and babies. There is also potential for helping to reduce NHS costs. For example, the project could lead to evidence-based care packages such as increased monitoring for at-risk pregnancies, and clearer messages on the risk-benefit balance of COVID-19 vaccination to inform decision-making and prevent future COVID-19-exposed pregnancies.
@@ -29,7 +26,7 @@ To maximise public benefit, our team will feed into national and international m
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [CCU036_01: COVID-19 vaccination and birth outcomes of 186,990 women vaccinated before pregnancy: an England-wide cohort study](https://github.com/BHFDSC/CCU036)
 
 ## Project approval
 
